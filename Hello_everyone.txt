@@ -1,0 +1,2 @@
+This is greeting message.
+Hello everyone~
